@@ -17,7 +17,7 @@ Evaluate whether **weekly subscription pricing ($2.99)** outperforms the **month
 ![A-B-testing](ab_test_result.png)
 
 Estimate historical Lifetime Value and predict **52-week LTV** using cohort-based modeling.
-![LTV Prediction Curve](images/ltv_prediction_curve.png)
+![LTV Prediction Curve](ltv_actual_vs_predict.png)
 ---
 
 ## 📂 Task Modules
